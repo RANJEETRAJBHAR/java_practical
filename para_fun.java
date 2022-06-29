@@ -6,7 +6,8 @@ public class para_fun {
 		// TODO Auto-generated method stub
 
 		para_fun obj=new para_fun();
-		obj.accept();
+				obj.accept();
+		
 	}
 	
 	public void accept()
