@@ -1,4 +1,4 @@
-package com.rajneesh;
+package com.Ranjeet;
 
 import java.util.Scanner;
 
@@ -26,6 +26,7 @@ public class Encapsulation1 {
 	System.out.println(s.roll_no());
 	System.out.println(s.names());
 	System.out.println(s.percentage());
+	s.getGrade();
 	}
 
 }
